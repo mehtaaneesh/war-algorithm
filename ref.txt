@@ -1,0 +1,16 @@
+Stochastic detection and tracking of anomalous aerial objects using probabilistic image features
+
+Detection and tracking:
+Frame 0097 | Anomaly pixels: 15120 | Components: 497
+  → Tracked center: (655.7, 501.2)
+Frame 0098 | Anomaly pixels: 15661 | Components: 508
+  → Tracked center: (653.8, 494.9)
+Frame 0099 | Anomaly pixels: 16012 | Components: 512
+  → Tracked center: (654.3, 484.9)
+Frame 0100 | Anomaly pixels: 16053 | Components: 524
+  → Tracked center: (654.4, 485.1)
+
+Threat: 
+[Frame 0040] Threat: Recon Drone | Avg Speed: 2.31 | Speed Var: 0.42 | Dir Change: 0.18
+[Frame 0050] Threat: Recon Drone | Avg Speed: 2.28 | Speed Var: 0.39 | Dir Change: 0.21
+[Frame 0060] Threat: Attack Drone | Avg Speed: 5.87 | Speed Var: 0.51 | Dir Change: 0.14
